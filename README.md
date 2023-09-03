@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arjun Govindarajan   <a href="https://linkedin.com/in/https://www.linkedin.com/in/arjungovindarajan/" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjungovindarajan/" height="30" width="40" /></a></h1>
+<h1 align="center">Hi 👋, I'm Arjun Govindarajan   <a href="https://linkedin.com/in/https://www.linkedin.com/in/arjungovindarajan/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjungovindarajan/" height="30" width="40" /></a></h1>
 
 <h3 align="center">A passionate Data Science and Machine Learning Engineer</h3>
 
