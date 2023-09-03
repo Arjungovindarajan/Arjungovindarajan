@@ -4,13 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjungovindarajan&label=Profile%20views&color=0e75b6&style=flat" alt="arjungovindarajan" /> </p>
 
-<p align="right"> <img class="image" src="https://github.com/Arjungovindarajan/Arjungovindarajan/blob/main/git%20ai%20gif.gif" alt="Gif_code" width="400" />
-<style>
-.image {
-border-radius: 15px 50px 30px;
-}
-</style>
-</p>
+<p align="right"> <img class="image" src="https://github.com/Arjungovindarajan/Arjungovindarajan/blob/main/git%20ai%20gif.gif" alt="Gif_code" width="400" /> </p>
 
 - 🔭 I’m currently working on **Software Engineer (PY-Backend)**
 
