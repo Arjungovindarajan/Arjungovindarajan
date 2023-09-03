@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Data Science and Machine Learning Engineer</h3>
 
-<img align="right" alt="Gif_code" width= "400" src="">
+<img align="right" alt="Gif_code" width= "400" src="https://github.com/Arjungovindarajan/Arjungovindarajan/blob/main/git%20ai%20gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjungovindarajan&label=Profile%20views&color=0e75b6&style=flat" alt="arjungovindarajan" /> </p>
 
