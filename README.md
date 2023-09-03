@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate Data Science and Machine Learning Engineer</h3>
 
+<img align="right" alt="Gif_code" width= "400" src="">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjungovindarajan&label=Profile%20views&color=0e75b6&style=flat" alt="arjungovindarajan" /> </p>
 
 - 🔭 I’m currently working on **Software Engineer (PY-Backend)**
