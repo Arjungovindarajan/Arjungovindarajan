@@ -16,7 +16,7 @@
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, Data Visualization, SQL**
 
 - 📫 How to reach me **arjunviki44@gmail.com**
-- ![image](https://github.com/Arjungovindarajan/Arjungovindarajan/assets/110599924/e1902f99-87e6-4783-bebc-7753e937e73a)
+- <img src="https://github.com/Arjungovindarajan/Arjungovindarajan/assets/110599924/e1902f99-87e6-4783-bebc-7753e937e73a" alt="image" width="20" height="20">   **+91 9791299575**
 
 
 <h3 align="left">Connect with me:</h3>
