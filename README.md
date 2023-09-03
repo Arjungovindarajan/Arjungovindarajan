@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjungovindarajan&label=Profile%20views&color=0e75b6&style=flat" alt="arjungovindarajan" /> </p>
 
 - 🔭 I’m currently working on **Software Engineer (PY-Backend)**
-<p align="left">
-https://www.linkedin.com/in/arjungovindarajan/
-</p>
+- https://www.linkedin.com/in/arjungovindarajan/
+
 - 🌱 I’m currently learning **ML, AI Topics**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
